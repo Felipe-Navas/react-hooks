@@ -1,7 +1,7 @@
 import { useState } from 'react';
 
 /**
- *
+ * * useCounter custom hook for increment, decrement and reset
  * @param {number} initialState
  * @returns {Object}
  */
